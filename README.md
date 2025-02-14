@@ -18,7 +18,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 
 ### What I currently Do
 
-- 🔭 I’m running Agency named [Future Bound Tech](https://1basha.netlify.app/)
+- 🔭 I’m running Agency named [Future Bound Tech](https://futurebound.tech)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: bashamasthan31@gmail.com
