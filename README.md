@@ -60,7 +60,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://1basha.netlify.app/me/resume-1)
+- :paperclip: [My Resume/CV](https://www.futurebound.tech/CEO/CV%20Masthan.pdf)
 - :email: bashamasthan31@gmail.com
 
 
