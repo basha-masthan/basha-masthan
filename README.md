@@ -11,7 +11,7 @@ I'm Masthan Basha Shaik a Full Stack Web Developer. I Spend most of my time codi
 ### CoderOne Newsletter
 Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
 
-👉 [Join Here](https://devloomlabs.vercel.app/join-newsletter)
+
 
 
 <!-- TODO: Add last video link -->
